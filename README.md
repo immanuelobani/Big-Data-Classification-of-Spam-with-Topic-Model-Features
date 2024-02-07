@@ -94,6 +94,9 @@ To run the project:
 5. Train the models using the training script.
 6. Evaluate the models with the provided evaluation metrics.
 
+## Dataset Used in this project
+https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset
+
 ## Visualisation
 
 Results and data exploration are visualised using `matplotlib` and `seaborn` to create plots and confusion matrices.
